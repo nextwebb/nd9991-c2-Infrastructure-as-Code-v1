@@ -1,7 +1,7 @@
 [
     {
         "ParameterKey": "myVPC",
-        "ParameterValue": "vpc-cb298db6"
+        "ParameterValue": "vpc-067b4c3819ff8bc12"
       },
       {
         "ParameterKey": "PublicSubnet",
